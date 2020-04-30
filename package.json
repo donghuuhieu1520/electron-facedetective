@@ -15,7 +15,7 @@
     "dotenv": "^8.1.0",
     "electron": "^6.0.3",
     "form-data": "^2.5.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-fetch": "^2.6.0",
     "node-snackbar": "^0.1.15",
     "request": "^2.88.0"
